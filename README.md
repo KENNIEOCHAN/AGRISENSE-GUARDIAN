@@ -1,2 +1,3 @@
-# AGRISENSE-GUARDIAN
-Agrisense Guardian is an Arduino-based greenhouse system. Monitor and control environmental conditions with sensors and actuators, featuring SMS remote management and open-source flexibility for efficient farming.
+Agrisense Guardian: Greenhouse Monitoring & Control
+
+Agrisense Guardian is an Arduino-based system for monitoring and controlling greenhouse environments. It integrates sensors for temperature, humidity, soil moisture, gas, flame, and water flow, allowing real-time data collection. Users interact with the system through an OLED display and keypad for intuitive control. Key features include automated actuator control, SMS approval for remote management, and open-source customization. Enhance crop yield and resource efficiency with precise environmental regulation, while benefiting from remote monitoring and flexible customization options. Contribute to the project's development and start optimizing your greenhouse operations with Agrisense Guardian.
